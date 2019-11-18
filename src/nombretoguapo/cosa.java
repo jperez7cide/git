@@ -14,7 +14,7 @@ public class cosa {
 	}
 	public void printHola() {
 >>>>>>> branca
-		System.out.println("Hola món!");
+		System.out.println("H");
 	}
 
 }
